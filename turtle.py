@@ -22,7 +22,7 @@ for c in range(50):
 
 # q1: Escreva uma função chamada square que receba um parâmetro chamado t, que é um turtle. Ela deve usar o turtle para desenhar um quadrado.
 # q2: Fazer um poligono de "n" lados (360/n)
-# q3: Desenhe um circulo (tentei ne)
+# q3: Desenhe um circulo 
 
 def squart(t):
     for c in range(30):
